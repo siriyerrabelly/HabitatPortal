@@ -4,19 +4,19 @@ export const mockData = {
     {
       id: "jaguar",
       title: "Jaguar",
-      image: "/jaguar.jpeg",
+      image: "/HabitatPortal/jaguar.jpeg",
       content: "The jaguar is the largest big cat in the Americas."
     },
     {
       id: "toucan",
       title: "Toucan",
-      image: "/toucan.jpeg",
+      image: "/HabitatPortal/toucan.jpeg",
       content: "Toucans are known for their colorful bills."
     },
     {
       id: "sloth",
       title: "Sloth",
-      image: "/sloth.jpeg",
+      image: "/HabitatPortal/sloth.jpeg",
       content: "Sloths are slow-moving mammals."
     }
   ],
@@ -24,19 +24,19 @@ export const mockData = {
     {
       id: "dolphin",
       title: "Dolphin",
-      image: "/dolphin.jpeg",
+      image: "/HabitatPortal/dolphin.jpeg",
       content: "Dolphins are intelligent marine mammals."
     },
     {
       id: "sea-turtle",
       title: "Sea Turtle",
-      image: "/sea-turtle.jpeg",
+      image: "/HabitatPortal/sea-turtle.jpeg",
       content: "Sea turtles have existed for millions of years."
     },
     {
       id: "clownfish",
       title: "Clownfish",
-      image: "/clownfish.jpeg",
+      image: "/HabitatPortal/clownfish.jpeg",
       content: "Clownfish live in sea anemones."
     }
   ],
@@ -44,19 +44,19 @@ export const mockData = {
     {
       id: "fennec-fox",
       title: "Fennec Fox",
-      image: "/fennec-fox.jpeg",
+      image: "/HabitatPortal/fennec-fox.jpeg",
       content: "Fennec foxes have large ears to regulate temperature."
     },
     {
       id: "camel",
       title: "Camel",
-      image: "/camel.jpeg",
+      image: "/HabitatPortal/camel.jpeg",
       content: "Camels survive harsh desert climates."
     },
     {
       id: "desert-lizard",
       title: "Desert Lizard",
-      image: "/desert-lizard.jpeg",
+      image: "/HabitatPortal/desert-lizard.jpeg",
       content: "Adapted to desert conditions."
     }
   ]
