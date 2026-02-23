@@ -1,0 +1,6 @@
+/* src/components/content/ContentList.css */
+.content-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 20px;
+}
